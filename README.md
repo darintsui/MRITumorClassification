@@ -37,11 +37,11 @@ Accuracy after 10 epochs: 78.43%
 
 ![alt text](PCA_CNN2.png "PCA_CNN2")
 
-10 component accuracy: 41.18%
+10 component accuracy: 39.22%
 
 ![alt text](PCA_CNN10.png "PCA_CNN10")
 
-30 component accuracy: 66.67%
+30 component accuracy: 60.78%
 
 ![alt text](PCA_CNN30.png "PCA_CNN30")
 
